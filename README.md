@@ -18,6 +18,8 @@ bs
 4.4
 5
 
+// this data appears in  table actually, here's some tab error
+
  Item Code   Description   Rate   Quantity   cost
 a     as     3.300000   4   13.200000
 b     bs     4.400000   5   22.000000
